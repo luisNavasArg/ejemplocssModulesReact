@@ -1,9 +1,10 @@
+ import styles from './encabezado.module.css'
 const Encabezado =()=>{
    return(
       <header>
-         <h1 className="title">Encabezado</h1>
+         <h1 className={styles.title}>Encabezado</h1>
       </header>
    )
 }
-// https://github.com/luisNavasArg/ejemplocssModulesReact
+
 export default Encabezado

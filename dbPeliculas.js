@@ -1,4 +1,4 @@
-peliculas=[
+const peliculas=[
    {
       name:"The Batman",
       genero:"Aventura",
@@ -13,3 +13,4 @@ peliculas=[
       img:"https://pics.filmaffinity.com/the_matrix-155050517-mmed.jpg"
    }
 ]
+export default peliculas;
